@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RainSureZhao
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning ACM !!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
