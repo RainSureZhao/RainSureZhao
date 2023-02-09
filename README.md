@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RainSureZhao
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning SpringBoot && Vue
+- 🌱 I’m currently learning 3D Reconstruction && CV && CG
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
