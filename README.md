@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RainSureZhao
+- 👋 Hi, I’m @RainSure
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning 3D Reconstruction && CV && CG
 - 💞️ I’m looking to collaborate on ...
